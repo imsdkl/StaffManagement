@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "EGLlspmi4/EzNWzoXVy6hccEH/6YRrAYmHKhxdQmpjk=",
+  "Source": "StaffManagement",
+  "BasePath": "_content/StaffManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StaffManagement\\wwwroot",
+      "Source": "StaffManagement",
+      "ContentRoot": "C:\\Users\\SAIDKAMOLKHUJA\\Desktop\\StaffManagement\\wwwroot\\",
+      "BasePath": "_content/StaffManagement",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\SAIDKAMOLKHUJA\\Desktop\\StaffManagement\\wwwroot\\images\\img1.jpg",
+      "SourceId": "StaffManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SAIDKAMOLKHUJA\\Desktop\\StaffManagement\\wwwroot\\",
+      "BasePath": "_content/StaffManagement",
+      "RelativePath": "images/img1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\img1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\SAIDKAMOLKHUJA\\Desktop\\StaffManagement\\wwwroot\\images\\img2.jpg",
+      "SourceId": "StaffManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SAIDKAMOLKHUJA\\Desktop\\StaffManagement\\wwwroot\\",
+      "BasePath": "_content/StaffManagement",
+      "RelativePath": "images/img2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\img2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\SAIDKAMOLKHUJA\\Desktop\\StaffManagement\\wwwroot\\index.html",
+      "SourceId": "StaffManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SAIDKAMOLKHUJA\\Desktop\\StaffManagement\\wwwroot\\",
+      "BasePath": "_content/StaffManagement",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\SAIDKAMOLKHUJA\\Desktop\\StaffManagement\\wwwroot\\scripts\\script1.js",
+      "SourceId": "StaffManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SAIDKAMOLKHUJA\\Desktop\\StaffManagement\\wwwroot\\",
+      "BasePath": "_content/StaffManagement",
+      "RelativePath": "scripts/script1.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scripts\\script1.js"
+    }
+  ]
+}
